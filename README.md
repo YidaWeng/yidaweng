@@ -1,4 +1,7 @@
-## Hi there 👋
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YidaWeng&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YidaWeng" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+![](https://komarev.com/ghpvc/?username=YidaWeng&color=brightgreen)
 
 <!--
 **YidaWeng/yidaweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
